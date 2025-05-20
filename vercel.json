@@ -1,1 +1,10 @@
 
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/cors",
+      "dest": "/api/cors.js"
+    }
+  ]
+}
